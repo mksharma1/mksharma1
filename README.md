@@ -1,8 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Java, kotlin and MERN Stack
-- 🌱 I’m currently learning react.js
-- 👯 I’m looking to collaborate on projects based on Android and MERN stack
-- 🤔 I’m looking for help with learning new stuff
+- 🔭 I’m currently working on react.js, next.js, typescript
+- 👯 I’m looking to collaborate on projects based on MERN stack
 - 💬 Ask me about Career Guidance in Tech
 - 📫 How to reach me: +91-9416690144 | mohit1999sh@gmail.com | https://www.linkedin.com/in/mohit-sharma-863025146/
 - 😄 Pronouns: @eccentric_challenger on Instagram || @mksharma34 on Twitter
